@@ -24,7 +24,7 @@ function injectSweatEquity() {
     }, 
     false
   );
-
+  
   const nodesToProcess = [];
   const priceRegex = /\d[\d,]*\s*원/; 
 
